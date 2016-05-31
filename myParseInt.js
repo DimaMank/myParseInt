@@ -93,4 +93,4 @@ function getNumber(digits) {
 //
 //sum += dig * multiplier;
 //multiplier *= 10;
-//5)ретерн sum
+//5)ретерн sum с добавлением знака
